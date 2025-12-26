@@ -1,0 +1,14 @@
+Running compliance tests...
+
+╔══════════════════════════════════════════════════════════════════╗
+║          JSON Schema Compliance Test Suite                      ║
+╚══════════════════════════════════════════════════════════════════╝
+
+✓ Draft 04:         882/ 882 tests  (100.0%)
+✓ Draft 06:        1170/1170 tests  (100.0%)
+✗ Draft 07:        1503/1534 tests  ( 98.0%)
+✗ Draft 2019-09:   1909/1941 tests  ( 98.4%)
+✗ Draft 2020-12:   1936/1990 tests  ( 97.3%)
+
+Some drafts have failing tests. Run individual test files for details.
+
