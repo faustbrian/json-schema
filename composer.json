@@ -1,0 +1,91 @@
+{
+    "name": "cline/json-schema",
+    "description": "Immutable JSON Schema implementation with support for drafts 2020-12, 2019-09, draft-07, draft-06, and draft-05",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "json-schema",
+        "validation",
+        "json",
+        "schema",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Brian Faust",
+            "email": "brian@cline.sh"
+        }
+    ],
+    "require": {
+        "php": "^8.5.0",
+        "illuminate/contracts": "^11.0 || ^12.0",
+        "illuminate/support": "^11.0 || ^12.0",
+        "spatie/laravel-package-tools": "^1.92.7"
+    },
+    "require-dev": {
+        "cline/coding-standard": "^1.5.8",
+        "cline/prism": "^1.7.0",
+        "orchestra/testbench": "^10.8",
+        "symfony/var-dumper": "^7.4.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Cline\\JsonSchema\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true,
+            "ergebnis/composer-normalize": true,
+            "pestphp/pest-plugin": true
+        },
+        "platform": {
+            "php": "8.5.0"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "aliases": {
+                "JsonSchema": "Cline\\JsonSchema\\Facades\\JsonSchema"
+            },
+            "providers": [
+                "Cline\\JsonSchema\\JsonSchemaServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "lint": "vendor/bin/ecs check --fix",
+        "refactor": "rector",
+        "test": [
+            "@test:lint",
+            "@test:type-coverage",
+            "@test:unit",
+            "@test:types",
+            "@test:refactor"
+        ],
+        "test:draft-04": "php run_draft_tests.php draft4",
+        "test:draft-06": "php run_draft_tests.php draft6",
+        "test:draft-07": "php run_draft_tests.php draft7",
+        "test:draft-2019-09": "php run_draft_tests.php draft2019-09",
+        "test:draft-2020-12": "php run_draft_tests.php draft2020-12",
+        "test:drafts": [
+            "@test:draft-04",
+            "@test:draft-06",
+            "@test:draft-07",
+            "@test:draft-2019-09",
+            "@test:draft-2020-12"
+        ],
+        "test:lint": "vendor/bin/ecs check",
+        "test:refactor": "rector --dry-run",
+        "test:type-coverage": "pest --parallel --min=90 --type-coverage",
+        "test:types": "phpstan",
+        "test:unit": "pest --parallel --min=90 --coverage"
+    }
+}

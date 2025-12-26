@@ -1,0 +1,84 @@
+
+    /**
+     * Validate the contentEncoding keyword (Draft 07+).
+     *
+     * Validates that string values are properly encoded according to the specified encoding.
+     * Currently supports base64 encoding validation. Only applies to string types;
+     * other types pass automatically.
+     *
+     * @see https://json-schema.org/draft-07/json-schema-validation#rfc.section.8.3 Draft-07 contentEncoding
+     * @see https://json-schema.org/understanding-json-schema/reference/non_json_data#contentencoding Understanding JSON Schema - Content Encoding
+     * @param  mixed                $data   The instance to validate (must be string for constraint to apply)
+     * @param  array<string, mixed> $schema The schema definition containing the contentEncoding constraint
+     * @return bool                 True if the string is properly encoded, false otherwise
+     */
+    protected function validateContentEncoding(mixed $data, array $schema): bool
+    {
+        if (!isset($schema['contentEncoding']) || !is_string($data)) {
+            return true;
+        }
+
+        $encoding = $schema['contentEncoding'];
+
+        // Only validate base64 encoding for now (most common case)
+        if ($encoding === 'base64') {
+            // base64_decode with strict mode validates the encoding
+            // Valid base64 uses only: A-Z, a-z, 0-9, +, /, and = for padding
+            return base64_decode($data, true) !== false;
+        }
+
+        // Unknown encodings are not validated (per spec, contentEncoding is optional)
+        return true;
+    }
+
+    /**
+     * Validate the contentMediaType keyword (Draft 07+).
+     *
+     * Validates that string values contain valid content according to the specified media type.
+     * When combined with contentEncoding, the encoding is decoded first, then the media type
+     * is validated. Currently supports application/json validation. Only applies to string types;
+     * other types pass automatically.
+     *
+     * @see https://json-schema.org/draft-07/json-schema-validation#rfc.section.8.4 Draft-07 contentMediaType
+     * @see https://json-schema.org/understanding-json-schema/reference/non_json_data#contentmediatype Understanding JSON Schema - Content Media Type
+     * @param  mixed                $data   The instance to validate (must be string for constraint to apply)
+     * @param  array<string, mixed> $schema The schema definition containing the contentMediaType constraint
+     * @return bool                 True if the string contains valid content for the media type, false otherwise
+     */
+    protected function validateContentMediaType(mixed $data, array $schema): bool
+    {
+        if (!isset($schema['contentMediaType']) || !is_string($data)) {
+            return true;
+        }
+
+        $mediaType = $schema['contentMediaType'];
+        $content = $data;
+
+        // If contentEncoding is present, decode first
+        if (isset($schema['contentEncoding'])) {
+            $encoding = $schema['contentEncoding'];
+
+            if ($encoding === 'base64') {
+                $decoded = base64_decode($content, true);
+
+                // If encoding is invalid, fail validation
+                if ($decoded === false) {
+                    return false;
+                }
+
+                $content = $decoded;
+            }
+        }
+
+        // Validate based on media type
+        if ($mediaType === 'application/json') {
+            // Attempt to decode the JSON
+            json_decode($content);
+
+            // Check if there was an error
+            return json_last_error() === JSON_ERROR_NONE;
+        }
+
+        // Unknown media types are not validated (per spec, contentMediaType is optional)
+        return true;
+    }
