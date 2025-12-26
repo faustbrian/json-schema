@@ -1,0 +1,607 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://faustbrian.github.io/json-schema/vocabularies/laravel-validation",
+  "$vocabulary": {
+    "https://json-schema.org/draft/2020-12/vocab/core": true
+  },
+  "title": "Laravel Validation Vocabulary",
+  "description": "Custom JSON Schema vocabulary implementing Laravel's validation rules",
+  "$defs": {
+    "fieldReference": {
+      "type": "string",
+      "description": "Reference to another field name"
+    },
+    "conditionalObject": {
+      "type": "object",
+      "properties": {
+        "field": { "type": "string" },
+        "value": { "description": "Value to compare against" }
+      },
+      "required": ["field", "value"]
+    },
+    "rangeObject": {
+      "type": "object",
+      "properties": {
+        "min": { "type": "number" },
+        "max": { "type": "number" }
+      },
+      "required": ["min", "max"]
+    },
+    "databaseRule": {
+      "type": "object",
+      "properties": {
+        "table": { "type": "string" },
+        "column": { "type": "string" },
+        "where": { "type": "object" },
+        "whereNot": { "type": "object" }
+      },
+      "required": ["table"]
+    }
+  },
+  "properties": {
+    "accepted": {
+      "type": "boolean",
+      "description": "Field must be 'yes', 'on', 1, '1', true, or 'true'"
+    },
+    "acceptedIf": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field must be accepted if another field equals a value"
+    },
+    "activeUrl": {
+      "type": "boolean",
+      "description": "Field must be a valid A or AAAA DNS record"
+    },
+    "after": {
+      "type": "string",
+      "description": "Date must be after another date field or value"
+    },
+    "afterOrEqual": {
+      "type": "string",
+      "description": "Date must be after or equal to another date field or value"
+    },
+    "alpha": {
+      "type": "boolean",
+      "description": "Field must contain only alphabetic characters"
+    },
+    "alphaDash": {
+      "type": "boolean",
+      "description": "Field may contain alpha-numeric characters, dashes, and underscores"
+    },
+    "alphaNumeric": {
+      "type": "boolean",
+      "description": "Field must contain only alpha-numeric characters"
+    },
+    "anyOf": {
+      "type": "array",
+      "items": { "type": "object" },
+      "minItems": 1,
+      "description": "At least one of the specified rules must pass"
+    },
+    "array": {
+      "oneOf": [
+        { "type": "boolean" },
+        {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      ],
+      "description": "Field must be an array, optionally with specified allowed keys"
+    },
+    "ascii": {
+      "type": "boolean",
+      "description": "Field must contain only 7-bit ASCII characters"
+    },
+    "bail": {
+      "type": "boolean",
+      "description": "Stop validation on first failure for this field"
+    },
+    "before": {
+      "type": "string",
+      "description": "Date must be before another date field or value"
+    },
+    "beforeOrEqual": {
+      "type": "string",
+      "description": "Date must be before or equal to another date field or value"
+    },
+    "between": {
+      "$ref": "#/$defs/rangeObject",
+      "description": "Field must be between min and max (inclusive)"
+    },
+    "boolean": {
+      "type": "boolean",
+      "description": "Field must be boolean-castable: true, false, 1, 0, '1', '0'"
+    },
+    "confirmed": {
+      "oneOf": [
+        { "type": "boolean" },
+        { "type": "string" }
+      ],
+      "description": "Field must have matching confirmation field"
+    },
+    "contains": {
+      "type": "array",
+      "items": {},
+      "minItems": 1,
+      "description": "Array must contain all specified values"
+    },
+    "currentPassword": {
+      "type": "boolean",
+      "description": "Field must match authenticated user's current password"
+    },
+    "date": {
+      "type": "boolean",
+      "description": "Field must be a valid date per strtotime()"
+    },
+    "dateEquals": {
+      "type": "string",
+      "description": "Date must equal the given date"
+    },
+    "dateFormat": {
+      "oneOf": [
+        { "type": "string" },
+        {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        }
+      ],
+      "description": "Date must match the given PHP date format(s)"
+    },
+    "decimal": {
+      "oneOf": [
+        { "type": "integer", "minimum": 0 },
+        {
+          "type": "object",
+          "properties": {
+            "min": { "type": "integer", "minimum": 0 },
+            "max": { "type": "integer", "minimum": 0 }
+          },
+          "required": ["min", "max"]
+        }
+      ],
+      "description": "Field must have specified decimal places"
+    },
+    "declined": {
+      "type": "boolean",
+      "description": "Field must be 'no', 'off', 0, '0', false, or 'false'"
+    },
+    "declinedIf": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field must be declined if another field equals a value"
+    },
+    "different": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field must differ from another field"
+    },
+    "digits": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Field must be numeric with exact length"
+    },
+    "digitsBetween": {
+      "type": "object",
+      "properties": {
+        "min": { "type": "integer", "minimum": 0 },
+        "max": { "type": "integer", "minimum": 0 }
+      },
+      "required": ["min", "max"],
+      "description": "Field must have length between min and max digits"
+    },
+    "dimensions": {
+      "type": "object",
+      "properties": {
+        "min_width": { "type": "integer" },
+        "max_width": { "type": "integer" },
+        "min_height": { "type": "integer" },
+        "max_height": { "type": "integer" },
+        "width": { "type": "integer" },
+        "height": { "type": "integer" },
+        "ratio": { "type": "string", "pattern": "^\\d+/\\d+$" }
+      },
+      "description": "Image must satisfy dimension constraints"
+    },
+    "distinct": {
+      "oneOf": [
+        { "type": "boolean" },
+        { "type": "string", "enum": ["strict", "ignore_case"] }
+      ],
+      "description": "Array must not have duplicate values"
+    },
+    "doesntContain": {
+      "type": "array",
+      "items": {},
+      "minItems": 1,
+      "description": "Array must not contain any specified values"
+    },
+    "doesntEndWith": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must not end with any of the given values"
+    },
+    "doesntStartWith": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must not start with any of the given values"
+    },
+    "email": {
+      "oneOf": [
+        { "type": "boolean" },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["rfc", "strict", "dns", "spoof", "filter", "filter_unicode"]
+          }
+        }
+      ],
+      "description": "Field must be a valid email address"
+    },
+    "encoding": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "File must use specified encoding(s)"
+    },
+    "endsWith": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must end with one of the given values"
+    },
+    "enum": {
+      "type": "string",
+      "description": "Field must be a valid enum case (PHP class name)"
+    },
+    "exclude": {
+      "type": "boolean",
+      "description": "Exclude field from validated data"
+    },
+    "excludeIf": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Exclude field if condition met"
+    },
+    "excludeUnless": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Exclude field unless condition met"
+    },
+    "excludeWith": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Exclude field if another field is present"
+    },
+    "excludeWithout": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Exclude field if another field is not present"
+    },
+    "exists": {
+      "$ref": "#/$defs/databaseRule",
+      "description": "Field must exist in database table"
+    },
+    "extensions": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "File must have one of the specified extensions"
+    },
+    "file": {
+      "type": "boolean",
+      "description": "Field must be a successfully uploaded file"
+    },
+    "filled": {
+      "type": "boolean",
+      "description": "Field must be present and not empty"
+    },
+    "greaterThan": {
+      "oneOf": [
+        { "$ref": "#/$defs/fieldReference" },
+        { "type": "number" }
+      ],
+      "description": "Field must be greater than another field or value"
+    },
+    "greaterThanOrEqual": {
+      "oneOf": [
+        { "$ref": "#/$defs/fieldReference" },
+        { "type": "number" }
+      ],
+      "description": "Field must be greater than or equal to another field or value"
+    },
+    "hexColor": {
+      "type": "boolean",
+      "description": "Field must be a valid hex color (#RGB, #RRGGBB, #RRGGBBAA)"
+    },
+    "image": {
+      "type": "boolean",
+      "description": "File must be an image (jpeg, png, bmp, gif, svg, webp)"
+    },
+    "in": {
+      "type": "array",
+      "items": {},
+      "minItems": 1,
+      "description": "Field must be included in the given list of values"
+    },
+    "inArray": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field must exist in another array field"
+    },
+    "inArrayKeys": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field must exist in keys of another array field"
+    },
+    "integer": {
+      "type": "boolean",
+      "description": "Field must be an integer"
+    },
+    "ipAddress": {
+      "oneOf": [
+        { "type": "boolean" },
+        { "type": "string", "enum": ["ipv4", "ipv6"] }
+      ],
+      "description": "Field must be a valid IP address"
+    },
+    "json": {
+      "type": "boolean",
+      "description": "Field must be a valid JSON string"
+    },
+    "lessThan": {
+      "oneOf": [
+        { "$ref": "#/$defs/fieldReference" },
+        { "type": "number" }
+      ],
+      "description": "Field must be less than another field or value"
+    },
+    "lessThanOrEqual": {
+      "oneOf": [
+        { "$ref": "#/$defs/fieldReference" },
+        { "type": "number" }
+      ],
+      "description": "Field must be less than or equal to another field or value"
+    },
+    "list": {
+      "type": "boolean",
+      "description": "Array must have sequential numeric keys starting from 0"
+    },
+    "lowercase": {
+      "type": "boolean",
+      "description": "Field must be lowercase"
+    },
+    "macAddress": {
+      "type": "boolean",
+      "description": "Field must be a valid MAC address"
+    },
+    "max": {
+      "type": "number",
+      "description": "Field must be at most this value (context-dependent: string length, numeric value, array count, file size in KB)"
+    },
+    "maxDigits": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Field must have at most this many digits"
+    },
+    "mimes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "File must match one of the MIME types (by extension)"
+    },
+    "mimetypes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "File must match one of the MIME types (by content)"
+    },
+    "min": {
+      "type": "number",
+      "description": "Field must be at least this value (context-dependent: string length, numeric value, array count, file size in KB)"
+    },
+    "minDigits": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Field must have at least this many digits"
+    },
+    "missing": {
+      "type": "boolean",
+      "description": "Field must be missing"
+    },
+    "missingIf": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field must be missing if condition met"
+    },
+    "missingUnless": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field must be missing unless condition met"
+    },
+    "missingWith": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must be missing if any specified fields present"
+    },
+    "missingWithAll": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must be missing if all specified fields present"
+    },
+    "multipleOf": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Field must be a multiple of the given value"
+    },
+    "notIn": {
+      "type": "array",
+      "items": {},
+      "minItems": 1,
+      "description": "Field must not be included in the given list"
+    },
+    "notRegex": {
+      "type": "string",
+      "pattern": "^/.+/[a-z]*$",
+      "description": "Field must not match the regular expression"
+    },
+    "nullable": {
+      "type": "boolean",
+      "description": "Field may be null"
+    },
+    "numeric": {
+      "type": "boolean",
+      "description": "Field must be numeric"
+    },
+    "present": {
+      "type": "boolean",
+      "description": "Field must be present (can be empty)"
+    },
+    "presentIf": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field must be present if condition met"
+    },
+    "presentUnless": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field must be present unless condition met"
+    },
+    "presentWith": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must be present if any specified fields present"
+    },
+    "presentWithAll": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must be present if all specified fields present"
+    },
+    "prohibited": {
+      "type": "boolean",
+      "description": "Field must not be present"
+    },
+    "prohibitedIf": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field prohibited if condition met"
+    },
+    "prohibitedIfAccepted": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field prohibited if another field is accepted"
+    },
+    "prohibitedIfDeclined": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field prohibited if another field is declined"
+    },
+    "prohibitedUnless": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field prohibited unless condition met"
+    },
+    "prohibits": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "If field present, specified fields must not be"
+    },
+    "regex": {
+      "type": "string",
+      "pattern": "^/.+/[a-z]*$",
+      "description": "Field must match the regular expression"
+    },
+    "required": {
+      "type": "boolean",
+      "description": "Field must be present and not empty"
+    },
+    "requiredArrayKeys": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Array must contain all specified keys"
+    },
+    "requiredIf": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field required if another field has specific value"
+    },
+    "requiredIfAccepted": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field required if another field is accepted"
+    },
+    "requiredIfDeclined": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field required if another field is declined"
+    },
+    "requiredUnless": {
+      "$ref": "#/$defs/conditionalObject",
+      "description": "Field required unless another field has specific value"
+    },
+    "requiredWith": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field required if any other specified fields are present"
+    },
+    "requiredWithAll": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field required if all other specified fields are present"
+    },
+    "requiredWithout": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field required if any other specified fields are not present"
+    },
+    "requiredWithoutAll": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field required if all other specified fields are not present"
+    },
+    "same": {
+      "$ref": "#/$defs/fieldReference",
+      "description": "Field must match another field"
+    },
+    "size": {
+      "type": "number",
+      "description": "Field must have exact size (context-dependent: string length, numeric value, array count, file size in KB)"
+    },
+    "sometimes": {
+      "type": "boolean",
+      "description": "Only validate if field is present"
+    },
+    "startsWith": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Field must start with one of the given values"
+    },
+    "timezone": {
+      "type": "boolean",
+      "description": "Field must be a valid timezone identifier"
+    },
+    "ulid": {
+      "type": "boolean",
+      "description": "Field must be a valid ULID"
+    },
+    "unique": {
+      "type": "object",
+      "properties": {
+        "table": { "type": "string" },
+        "column": { "type": "string" },
+        "ignore": {},
+        "ignoreColumn": { "type": "string" },
+        "where": { "type": "object" },
+        "whereNot": { "type": "object" }
+      },
+      "required": ["table"],
+      "description": "Field must be unique in database table"
+    },
+    "uppercase": {
+      "type": "boolean",
+      "description": "Field must be uppercase"
+    },
+    "url": {
+      "type": "boolean",
+      "description": "Field must be a valid URL"
+    },
+    "uuid": {
+      "type": "boolean",
+      "description": "Field must be a valid UUID"
+    }
+  }
+}

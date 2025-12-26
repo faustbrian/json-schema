@@ -1,0 +1,853 @@
+{
+    "total_tests": 169,
+    "passed_tests": 169,
+    "failed_tests": 0,
+    "pass_rate": 100,
+    "results": {
+        "Draft 04 (format):date-time:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:18": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):date-time:0:20": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:21": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):date-time:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):email:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):email:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):email:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):email:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):email:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):email:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):email:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):hostname:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):hostname:0:26": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv4:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv4:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:12": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:14": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:24": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:26": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:27": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:28": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:29": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:31": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:34": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:35": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):ipv6:0:36": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:37": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:38": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):ipv6:0:39": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):unknown:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):unknown:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):unknown:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):unknown:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):unknown:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):unknown:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):unknown:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:12": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:14": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:15": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04 (format):uri:0:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:20": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:21": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:26": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:27": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:28": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:29": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:31": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:34": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04 (format):uri:0:35": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        }
+    }
+}

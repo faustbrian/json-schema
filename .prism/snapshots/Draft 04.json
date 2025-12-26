@@ -1,0 +1,3573 @@
+{
+    "total_tests": 713,
+    "passed_tests": 713,
+    "failed_tests": 0,
+    "pass_rate": 100,
+    "results": {
+        "Draft 04:additionalItems:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalItems:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:2:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:2:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:2:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalItems:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:5:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalItems:6:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:6:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalItems:7:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalItems:7:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalItems:8:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalProperties:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalProperties:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalProperties:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalProperties:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:additionalProperties:5:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:additionalProperties:6:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:5:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:6:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:6:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:7:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:allOf:7:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:allOf:8:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:anyOf:1:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:anyOf:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:anyOf:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:2:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:2:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:anyOf:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:anyOf:4:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:default:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:default:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:default:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:default:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:default:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:default:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:default:2:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:definitions:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:definitions:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:1:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:1:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:2:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:2:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:3:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:3:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:3:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:3:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:3:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:4:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:4:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:dependencies:4:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:dependencies:4:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:1:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:3:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:3:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:3:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:3:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:4:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:4:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:5:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:5:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:6:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:6:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:6:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:7:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:7:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:7:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:8:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:8:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:8:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:9:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:9:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:9:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:10:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:10:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:10:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:11:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:11:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:11:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:12:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:12:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:12:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:13:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:13:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:14:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:14:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:enum:15:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:enum:15:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:format:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:1:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:1:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:1:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:1:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:2:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:2:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:2:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:2:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:3:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:3:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:3:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:3:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:4:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:4:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:4:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:4:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:4:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:5:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:5:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:5:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:5:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:format:5:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:infinite-loop-detection:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:infinite-loop-detection:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:1:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:1:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:1:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:1:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:2:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:2:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:2:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:3:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:items:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:items:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxItems:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxItems:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxItems:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:maxItems:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxLength:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxLength:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxLength:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:maxLength:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxLength:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxProperties:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxProperties:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxProperties:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:maxProperties:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxProperties:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxProperties:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxProperties:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maxProperties:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:maximum:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:maximum:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:1:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:maximum:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:maximum:2:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:maximum:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minItems:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minItems:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minItems:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minItems:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minLength:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minLength:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minLength:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minLength:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minLength:0:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minProperties:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minProperties:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minProperties:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minProperties:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minProperties:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minProperties:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minimum:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minimum:1:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minimum:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:3:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:3:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:minimum:3:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minimum:3:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:minimum:3:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:multipleOf:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:multipleOf:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:multipleOf:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:multipleOf:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:multipleOf:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:multipleOf:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:multipleOf:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:multipleOf:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:multipleOf:3:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:multipleOf:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:not:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:not:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:not:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:not:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:not:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:3:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:not:4:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:4:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:not:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:1:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:2:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:4:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:4:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:4:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:4:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:5:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:5:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:5:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:oneOf:6:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:oneOf:6:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:bignum:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:bignum:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:bignum:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:bignum:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:bignum:2:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:bignum:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:bignum:4:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:bignum:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:bignum:6:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:0:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:1:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:2:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:3:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:4:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:4:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:5:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:5:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:5:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:6:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:6:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:7:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:7:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:8:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:8:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:9:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:9:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:10:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:10:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:10:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:10:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:11:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:11:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:11:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:11:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:12:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:12:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:12:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:13:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:13:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:13:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:14:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:14:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:14:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:15:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:15:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:15:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:15:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:16:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:16:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:16:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:16:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:17:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:17:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:17:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:18:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:18:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:18:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:19:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ecmascript-regex:19:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ecmascript-regex:19:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:float-overflow:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:id:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:id:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:id:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:non-bmp-regex:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:non-bmp-regex:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:non-bmp-regex:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:non-bmp-regex:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:non-bmp-regex:0:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:non-bmp-regex:0:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:non-bmp-regex:0:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:non-bmp-regex:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:non-bmp-regex:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:non-bmp-regex:1:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:non-bmp-regex:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:non-bmp-regex:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:zeroTerminatedFloats:0:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:pattern:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:pattern:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:pattern:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:pattern:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:pattern:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:pattern:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:pattern:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:pattern:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:pattern:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:patternProperties:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:patternProperties:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:1:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:patternProperties:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:patternProperties:1:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:patternProperties:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:patternProperties:2:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:patternProperties:2:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:patternProperties:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:1:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:1:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:1:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:1:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:4:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:4:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:properties:4:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:4:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:4:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:properties:4:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:3:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:3:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:3:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:3:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:3:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:4:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:5:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:5:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:6:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:6:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:7:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:7:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:8:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:8:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:9:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:9:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:10:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:10:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:11:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:11:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:12:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:12:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:13:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:13:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:14:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:14:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:15:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:15:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:16:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:16:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:17:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:17:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:ref:18:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:ref:18:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:4:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:5:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:6:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:6:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:6:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:refRemote:7:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:refRemote:7:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:required:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:required:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:required:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:required:3:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:required:3:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:required:3:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:required:3:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:required:3:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:0:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:0:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:0:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:1:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:1:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:1:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:1:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:1:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:2:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:2:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:2:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:2:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:2:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:2:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:2:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:2:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:2:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:3:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:3:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:3:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:3:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:3:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:3:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:3:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:4:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:4:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:4:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:4:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:4:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:4:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:4:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:5:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:5:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:5:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:6:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:7:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:7:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:7:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:7:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:7:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:7:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:7:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:8:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:8:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:9:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:9:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:9:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:9:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:9:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:10:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:10:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:10:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:type:10:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:type:10:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:22": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:24": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:0:26": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:0:27": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:1:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:1:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:1:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:1:6": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:1:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:2:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:2:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:2:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:2:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:2:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 04:uniqueItems:3:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:12": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:3:14": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:4:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:5:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:5:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:5:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:5:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 04:uniqueItems:5:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        }
+    }
+}
