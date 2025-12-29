@@ -55,24 +55,24 @@ If you discover any security related issues, please use the [GitHub security rep
 
 The MIT License. Please see [License File](LICENSE.md) for more information.
 
-[ico-tests]: https://github.com/faustbrian/json-schema/actions/workflows/quality-assurance.yaml/badge.svg
+[ico-tests]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/quality-assurance.yaml/badge.svg
 [ico-version]: https://img.shields.io/packagist/v/cline/json-schema.svg
 [ico-license]: https://img.shields.io/badge/License-MIT-green.svg
 [ico-downloads]: https://img.shields.io/packagist/dt/cline/json-schema.svg
-[ico-draft-04]: https://github.com/faustbrian/json-schema/actions/workflows/draft-04.yml/badge.svg
-[ico-draft-06]: https://github.com/faustbrian/json-schema/actions/workflows/draft-06.yml/badge.svg
-[ico-draft-07]: https://github.com/faustbrian/json-schema/actions/workflows/draft-07.yml/badge.svg
-[ico-draft-2019-09]: https://github.com/faustbrian/json-schema/actions/workflows/draft-2019-09.yml/badge.svg
-[ico-draft-2020-12]: https://github.com/faustbrian/json-schema/actions/workflows/draft-2020-12.yml/badge.svg
+[ico-draft-04]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-04.yml/badge.svg
+[ico-draft-06]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-06.yml/badge.svg
+[ico-draft-07]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-07.yml/badge.svg
+[ico-draft-2019-09]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-2019-09.yml/badge.svg
+[ico-draft-2020-12]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-2020-12.yml/badge.svg
 
-[link-tests]: https://github.com/faustbrian/json-schema/actions
+[link-tests]: https://git.cline.sh/faustbrian/json-schema/actions
 [link-packagist]: https://packagist.org/packages/cline/json-schema
 [link-downloads]: https://packagist.org/packages/cline/json-schema
-[link-security]: https://github.com/faustbrian/json-schema/security
-[link-draft-04]: https://github.com/faustbrian/json-schema/actions/workflows/draft-04.yml
-[link-draft-06]: https://github.com/faustbrian/json-schema/actions/workflows/draft-06.yml
-[link-draft-07]: https://github.com/faustbrian/json-schema/actions/workflows/draft-07.yml
-[link-draft-2019-09]: https://github.com/faustbrian/json-schema/actions/workflows/draft-2019-09.yml
-[link-draft-2020-12]: https://github.com/faustbrian/json-schema/actions/workflows/draft-2020-12.yml
-[link-maintainer]: https://github.com/faustbrian
+[link-security]: https://git.cline.sh/faustbrian/json-schema/security
+[link-draft-04]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-04.yml
+[link-draft-06]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-06.yml
+[link-draft-07]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-07.yml
+[link-draft-2019-09]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-2019-09.yml
+[link-draft-2020-12]: https://git.cline.sh/faustbrian/json-schema/actions/workflows/draft-2020-12.yml
+[link-maintainer]: https://git.cline.sh/faustbrian
 [link-contributors]: ../../contributors

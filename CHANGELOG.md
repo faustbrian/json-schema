@@ -31,5 +31,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - OutputFormat enum cases now use PascalCase (Flag, Basic, Detailed, Verbose) following PHP enum naming conventions
 
-[Unreleased]: https://github.com/faustbrian/json-schema/compare/v1.8.0...HEAD
-[1.8.0]: https://github.com/faustbrian/json-schema/compare/v1.0.0...v1.8.0
+[Unreleased]: https://git.cline.sh/faustbrian/json-schema/compare/v1.8.0...HEAD
+[1.8.0]: https://git.cline.sh/faustbrian/json-schema/compare/v1.0.0...v1.8.0
