@@ -26,6 +26,8 @@ jobs:
     steps:
       - name: Check out code
         uses: https://github.com/actions/checkout@v6
+      - name: Sync compliance test suite
+        run: make sync-compliance
       - name: Set up PHP
         uses: https://github.com/shivammathur/setup-php@v2
         with:
@@ -47,6 +49,8 @@ jobs:
     steps:
       - name: Check out code
         uses: https://github.com/actions/checkout@v6
+      - name: Sync compliance test suite
+        run: make sync-compliance
       - name: Set up PHP
         uses: https://github.com/shivammathur/setup-php@v2
         with:
@@ -66,6 +70,8 @@ jobs:
     steps:
       - name: Check out code
         uses: https://github.com/actions/checkout@v6
+      - name: Sync compliance test suite
+        run: make sync-compliance
       - name: Set up PHP
         uses: https://github.com/shivammathur/setup-php@v2
         with:
@@ -85,6 +91,8 @@ jobs:
     steps:
       - name: Check out code
         uses: https://github.com/actions/checkout@v6
+      - name: Sync compliance test suite
+        run: make sync-compliance
       - name: Set up PHP
         uses: https://github.com/shivammathur/setup-php@v2
         with:
