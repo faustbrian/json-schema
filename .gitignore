@@ -1,0 +1,10 @@
+/.phpunit.result.cache
+/.phpunit.cache
+/.php-cs-fixer.cache
+/composer.lock
+/phpunit.xml
+/vendor/
+/compliance/JSON-Schema-Test-Suite/
+*.swp
+*.swo
+.idea

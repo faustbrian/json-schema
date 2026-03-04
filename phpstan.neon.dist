@@ -1,0 +1,20 @@
+parameters:
+    level: max
+    paths:
+        - src
+
+    reportUnmatchedIgnoredErrors: false
+
+    ignoreErrors:
+        # JSON Schema data is inherently mixed/dynamic
+        - '#Parameter \#1 \$schema of method .+::validateSchema\(\) expects array<string, mixed>, (array<mixed, mixed>|mixed) given\.#'
+        - '#Parameter \#2 \$data of method .+::validateObject\(\) expects array<string, mixed>, array<mixed, mixed> given\.#'
+        - '#Parameter \#1 \$contains of method .+::validateContains\(\) expects array<string, mixed>, array<mixed, mixed> given\.#'
+        - '#Parameter \#1 \$prefixItems of method .+::validatePrefixItems\(\) expects .+, array<mixed, mixed> given\.#'
+        - '#Parameter \#1 \$type of method .+::validateType\(\) expects .+, mixed given\.#'
+        - '#Parameter \#1 \$data of class .+Schema constructor expects array<string, mixed>, array<mixed, mixed> given\.#'
+        - '#Possibly invalid array key type mixed\.#'
+        - '#Parameter \#2 \.\.\.\$values of function sprintf expects .+, mixed given\.#'
+        - '#Method .+ReferenceResolver::resolve\(\) should return array<string, mixed> but returns array<mixed, mixed>\.#'
+        # Override calls in inheritance chain
+        - '#Static call to instance method#'

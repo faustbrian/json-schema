@@ -1,0 +1,2753 @@
+{
+    "total_tests": 549,
+    "passed_tests": 549,
+    "failed_tests": 0,
+    "pass_rate": 100,
+    "results": {
+        "Draft 2019-09 (format):date-time:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:18": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date-time:0:20": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:21": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date-time:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:15": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:18": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:20": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:23": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:25": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:26": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:27": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:28": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:29": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:31": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:34": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:35": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:36": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:37": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:38": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:39": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:40": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:41": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):date:0:42": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:43": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:44": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:45": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:46": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):date:0:47": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:15": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:22": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):duration:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):duration:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):email:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):email:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):email:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):email:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):email:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):email:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):email:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:18": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:20": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:21": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:0:22": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:4": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:5": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:14": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:18": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:21": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:23": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:26": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:27": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:28": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:29": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:30": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:31": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):hostname:1:34": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:35": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):hostname:1:36": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-email:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-email:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:18": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:26": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:27": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:28": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:29": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:31": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:34": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:35": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:36": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:37": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:38": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:39": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:40": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:41": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:42": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:43": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:44": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:45": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:46": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:47": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:0:48": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:49": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:50": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:51": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:52": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:53": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:54": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:55": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:0:56": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:0": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:1": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:2": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:3": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:1:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:1:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:1:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:1:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):idn-hostname:1:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:1:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:1:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):idn-hostname:1:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv4:0:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv4:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv4:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv4:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv4:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv4:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv4:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv4:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:12": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:14": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:24": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:26": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:27": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:28": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:29": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:31": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:34": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:35": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):ipv6:0:36": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:37": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:38": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):ipv6:0:39": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):iri-reference:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):iri-reference:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri-reference:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):iri:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):iri:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):iri:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):iri:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):iri:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:12": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:14": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:15": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:22": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:23": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:24": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:25": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:26": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):json-pointer:0:27": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:28": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:29": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:31": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:34": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:35": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:36": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):json-pointer:0:37": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):regex:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):regex:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):regex:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):regex:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):regex:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):regex:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):regex:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):regex:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):relative-json-pointer:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:8": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:18": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:24": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:25": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:26": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:27": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:28": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:29": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):time:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:31": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:34": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:35": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:36": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:37": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:38": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:39": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:40": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:41": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:42": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:43": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:44": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):time:0:45": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):unknown:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):unknown:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):unknown:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):unknown:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):unknown:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):unknown:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):unknown:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:9": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri-reference:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-reference:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri-reference:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri-reference:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri-template:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:7": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri-template:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri-template:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:10": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:11": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:12": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:13": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:14": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:15": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:16": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:17": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uri:0:19": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:20": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:21": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:22": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:23": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:24": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:25": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:26": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:27": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:28": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:29": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:30": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:31": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:32": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:33": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:34": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uri:0:35": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:0": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:1": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:2": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:3": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:4": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:5": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:6": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:7": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:8": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:9": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:10": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:11": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:12": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:13": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:14": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:15": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:16": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:17": {
+            "passed": true,
+            "expected": false,
+            "actual": false
+        },
+        "Draft 2019-09 (format):uuid:0:18": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:19": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:20": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        },
+        "Draft 2019-09 (format):uuid:0:21": {
+            "passed": true,
+            "expected": true,
+            "actual": true
+        }
+    }
+}
