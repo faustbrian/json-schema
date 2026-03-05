@@ -9,6 +9,9 @@
 
 namespace Cline\JsonSchema\Exceptions;
 
+use Facade\IgnitionContracts\BaseSolution;
+use Facade\IgnitionContracts\ProvidesSolution;
+use Facade\IgnitionContracts\Solution;
 use RuntimeException;
 
 /**
@@ -28,4 +31,17 @@ use RuntimeException;
  * @see https://json-schema.org/draft/2020-12/json-schema-validation JSON Schema Validation Specification
  * @see https://json-schema.org/understanding-json-schema/ Understanding JSON Schema Guide
  */
-abstract class JsonSchemaException extends RuntimeException {}
+abstract class JsonSchemaException extends RuntimeException implements ProvidesSolution
+{
+    public function getSolution(): Solution
+    {
+        /** @var BaseSolution $solution */
+        $solution = BaseSolution::create('Review package usage and configuration.');
+
+        return $solution
+            ->setSolutionDescription('Exception: '.$this->getMessage())
+            ->setDocumentationLinks([
+                'Package documentation' => 'https://github.com/cline/json-schema',
+            ]);
+    }
+}
