@@ -25,8 +25,12 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v6
+      - name: Install just
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y just
       - name: Sync compliance test suite
-        run: make sync-compliance
+        run: just sync-compliance
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
@@ -48,8 +52,12 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v6
+      - name: Install just
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y just
       - name: Sync compliance test suite
-        run: make sync-compliance
+        run: just sync-compliance
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
@@ -69,8 +77,12 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v6
+      - name: Install just
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y just
       - name: Sync compliance test suite
-        run: make sync-compliance
+        run: just sync-compliance
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:
@@ -90,8 +102,12 @@ jobs:
     steps:
       - name: Check out code
         uses: actions/checkout@v6
+      - name: Install just
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y just
       - name: Sync compliance test suite
-        run: make sync-compliance
+        run: just sync-compliance
       - name: Set up PHP
         uses: shivammathur/setup-php@v2
         with:

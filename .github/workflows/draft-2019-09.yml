@@ -20,6 +20,11 @@ jobs:
           extensions: mbstring, json
           coverage: none
 
+      - name: Install just
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y just
+
       - name: Cache Composer dependencies
         uses: actions/cache@v4
         with:
@@ -31,7 +36,7 @@ jobs:
         run: composer install --prefer-dist --no-progress --no-suggest
 
       - name: Sync compliance test suite
-        run: make sync-compliance
+        run: just sync-compliance
 
       - name: Run Draft 2019-09 compliance tests
         run: ./vendor/bin/prism prism.php --draft="Draft 2019-09" --ci
