@@ -34,7 +34,7 @@ foreach ($drafts as $draftName => $draftConfig) {
     $testDir = __DIR__ . '/JSON-Schema-Test-Suite/tests/' . $draftConfig['dir'];
 
     if (!is_dir($testDir)) {
-        echo "⚠ $draftName: Test directory not found - run 'make sync-compliance'\n";
+        echo "⚠ $draftName: Test directory not found - run 'just sync-compliance'\n";
         continue;
     }
 
